@@ -20,6 +20,7 @@
 
 ## 💡 Sobre mim
 Sou João, estudante de TI e desenvolvedor web nas horas vagas (e nas ocupadas também). Gosto de transformar ideias em sites funcionais e bem feitos. Sempre estou aprendendo algo novo e testando coisas diferentes. Curto trabalhar em equipe, trocar experiências e criar soluções que realmente façam sentido.
+
 ---
 
 ## 📫 Vamos nos conectar!
